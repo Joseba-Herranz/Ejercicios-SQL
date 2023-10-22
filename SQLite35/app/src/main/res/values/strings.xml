@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite35</string>
+    <string name="add">ADD</string>
+    <string name="url">URL:</string>
+    <string name="title">TITLE:</string>
+    <string name="author">AUTHOR:</string>
+</resources>
