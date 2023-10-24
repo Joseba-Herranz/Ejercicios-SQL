@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                 authorEditText.setText("");
                 youtubeUrlEditText.setText("");
 
-                updateSongList(); // Refactorizar para evitar duplicación de código
+                updateSongList(); 
             }
         });
 

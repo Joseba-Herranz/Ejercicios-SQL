@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
 
         databaseHelper = new SongDatabaseHelper(this);
 
-        // Agrega un Listener al ListView para manejar clics en los elementos
         songListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
